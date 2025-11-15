@@ -1,6 +1,5 @@
-![VagueColourReflections](https://github.com/user-attachments/assets/6420de6b-efa4-485e-bce7-c94313e8d3c4)
-
-## Hi there 👋
+![profileBanner](https://github.com/user-attachments/assets/f8a4861a-7c11-43d8-9450-d8ffa9430448)
+## Hi, I'm Tristan Leech👋
 
 <!--
 **TristanLeech/TristanLeech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
