@@ -1,6 +1,17 @@
-![profileBanner](https://github.com/user-attachments/assets/f8a4861a-7c11-43d8-9450-d8ffa9430448)
-## Hi, I'm Tristan Leech👋
 
+![profileBanner](https://github.com/user-attachments/assets/f8a4861a-7c11-43d8-9450-d8ffa9430448)
+# I'm Tristan, 
+## Let's get to know me through my work
+
+
+<!--
+bio
+skills
+tech stack badges
+portfolion project repos
+github repo stats
+contact info
+-->
 <!--
 **TristanLeech/TristanLeech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
