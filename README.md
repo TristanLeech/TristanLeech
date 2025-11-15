@@ -1,9 +1,12 @@
+![VagueColourReflections](https://github.com/user-attachments/assets/6420de6b-efa4-485e-bce7-c94313e8d3c4)
+
 ## Hi there 👋
 
 <!--
 **TristanLeech/TristanLeech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![VagueColourReflections](https://github.com/user-attachments/assets/7af6096a-6a2c-482f-919f-c72083ff0f4a)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
