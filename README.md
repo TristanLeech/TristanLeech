@@ -1,15 +1,13 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=TristanLeech&label=Profile%20views&color=0e75b6&style=flat" alt="TristanLeech" />
-</p>
+<img align="right" src="https://komarev.com/ghpvc/?username=TristanLeech&label=Profile%20views&color=0e75b6&style=flat" alt="ViewCounter" />
+
 ![profileBanner](https://github.com/user-attachments/assets/f8a4861a-7c11-43d8-9450-d8ffa9430448)
 
 <h1 align="right">
-I'm Tristan,
+Hi, I'm Tristan,
 </h1>
 <h2 align="right">
-Let's get to know me through my work
+Get to know me through my work
 </h2>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend%20Developer-007ACC?logo=codecrafters&logoColor=white" alt="Frontend Developer" />
