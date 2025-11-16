@@ -1,9 +1,26 @@
-
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=TristanLeech&label=Profile%20views&color=0e75b6&style=flat" alt="TristanLeech" />
+</p>
 ![profileBanner](https://github.com/user-attachments/assets/f8a4861a-7c11-43d8-9450-d8ffa9430448)
-# I'm Tristan, 
-## Let's get to know me through my work
+
+<h1 align="right">
+I'm Tristan,
+</h1>
+<h2 align="right">
+Let's get to know me through my work
+</h2>
 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend%20Developer-007ACC?logo=codecrafters&logoColor=white" alt="Frontend Developer" />
+  <img src="https://img.shields.io/badge/UX%20Designer-D0B0FF?logo=github&logoColor=black" alt="UX Designer" />
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?logo=javascript&logoColor=323330" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DBFB?logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Loves&nbsp;Birds-eb9928?logo=padlet&logoColor=white" alt="bird" />
+  <img src="https://img.shields.io/badge/Musician-a280ff?logo=applemusic&link=https%3A%2F%2Finstagram.com%2Ftristan_leech" alt="bandLink" />
+</p>
 <!--
 bio
 skills
@@ -11,19 +28,4 @@ tech stack badges
 portfolion project repos
 github repo stats
 contact info
--->
-<!--
-**TristanLeech/TristanLeech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-![VagueColourReflections](https://github.com/user-attachments/assets/7af6096a-6a2c-482f-919f-c72083ff0f4a)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
