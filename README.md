@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=TristanLeech&label=Profile%20views&color=0e75b6&style=flat" alt="ViewCounter" />
+<img align="right" src="https://komarev.com/ghpvc/?username=TristanLeech&label=Profile%20views&color=0a456b&style=flat" alt="ViewCounter" />
 
 ![profileBanner](https://github.com/user-attachments/assets/f8a4861a-7c11-43d8-9450-d8ffa9430448)
 
@@ -17,8 +17,30 @@ Get to know me through my work
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Loves&nbsp;Birds-eb9928?logo=padlet&logoColor=white" alt="bird" />
-  <img src="https://img.shields.io/badge/Musician-a280ff?logo=applemusic&link=https%3A%2F%2Finstagram.com%2Ftristan_leech" alt="bandLink" />
+  <img src="https://img.shields.io/badge/Musician-a280ff?logo=applemusic&link=(https://instagram.com/cerealsauceband)" alt="bandLink" />
 </p>
+
+<h2 align="center">Bio</h2>
+<p align="center">
+  I'm a maker, studying Industrial Design and Web Development.
+  You can find me making art, music, or food, reading, and gaming
+  I have four brothers, and I've been raising birds since I was three
+</p>
+
+<h2 align="center">Skills</h2>
+<p align="center">
+  I'm profficient with:
+</p>
+- **JavaScript** (React, Node.js)
+- **HTML**
+- **CSS**
+- **MySQL**
+- **MongoDB**
+
+<br />
+
+## [Vinoir](https://github.com/corbyn-jpg/summative-vinoir) (Semester 1)
+
 <!--
 bio
 skills
