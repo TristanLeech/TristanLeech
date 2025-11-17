@@ -21,8 +21,8 @@ Get to know me through my work
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" /> 
   <img src="https://img.shields.io/badge/Heroku-6762a6?logo=heroku&logoColor=c9c3e6 " alt="Heroku" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Musician-a280ff?logo=applemusic&link=(https://instagram.com/cerealsauceband)" alt="bandLink" />
   <img src="https://img.shields.io/badge/Loves&nbsp;Birds-eb9928?logo=padlet&logoColor=white" alt="bird" />
-  <!-- <img src="https://img.shields.io/badge/Musician-a280ff?logo=applemusic&link=(https://instagram.com/cerealsauceband)" alt="bandLink" /> -->
 </p>
 
 <div align="center">
@@ -61,13 +61,15 @@ Get to know me through my work
 
 # Portfolio Projects
 
+<br />
+
 ## [Prospero](https://github.com/TristanLeech/prospero)
 <img height="250" alt="Screenshot 2025-11-16 225523" src="https://github.com/user-attachments/assets/cae4a4d6-094e-466b-a57d-c56bea50ff78" />
 
 
 **Prospero is an organisational tool intended for neurodivergent audiences**
 
-The website was designed to allow users to create a calendar and populate it with events they wish to keep track of.
+The website was designed to allow users to create a calendar and populate it with events they wish to keep track of. The UI is intended to be minimalist, and calming.
 
 The project was made using HTML, CSS, MySQL, and Node.js, with a React framework
 
